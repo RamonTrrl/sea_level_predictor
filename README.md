@@ -20,6 +20,8 @@ Creo que este *thinking* revela muy bien mi nivel de principiante, por decirlo e
 
 Después de innumerables tropiezos 🪨, thinkings en chino 🈶, terminales llenas 🗑️, pestañas perdidas 😵 y horas de Replit ⏳ — aquí está el papelito sellado y refrendado 📜 que da fe de que en verdadito soy menos tonto de lo que parezco 🎓.
 
+PD: Dicho que has de tener siempre presente
+
 > 💬 *"¡Si este tipo lo pudo hacer, pues por qué yo no!!!"* 💪🌟
 
 ---
