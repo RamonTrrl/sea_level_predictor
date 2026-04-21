@@ -5,7 +5,7 @@
 
 ## 🏁 El proyecto final
 
-El último de los cinco proyectos para la certificación 🎓. Predecir el nivel del mar con Python 🌊 — suena grandioso para alguien que llegó aquí sin saber absolutamente nada de Py 😄💀... Letra chiquita: "Todo el honor y la gloria para el verdero actor de esta certificación mi "bro" el LLM, yo solo fui su escribano, amén!!! 🕯️🙏
+El último de los cinco proyectos para la certificación 🎓. Predecir el nivel del mar con Python 🌊 — suena grandioso para alguien que llegó aquí sin saber absolutamente nada de Py 😄💀... Letra chiquita: "Todo el honor y la gloria para el verdero actor de esta certificación mi "bro" el LLM, yo, solo fui su escribano, amén!!! 🕯️🙏
 ---
 
 ## 🎭 El thinking más revelador 💭
