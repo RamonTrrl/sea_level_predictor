@@ -20,7 +20,7 @@ Creo que este *thinking* revela muy bien mi nivel de principiante, por decirlo e
 
 Después de innumerables tropiezos 🪨, thinkings en chino 🈶, terminales llenas 🗑️, pestañas perdidas 😵 y horas de Replit ⏳ — aquí está el papelito sellado y refrendado 📜 que da fe de que en verdadito soy menos tonto de lo que parezco 🎓.
 
-PD: Dicho que has de tener siempre presente
+PD: El siguiente dicho que más que un hecho, por lo que, entre el hecho y lo dicho, sin los hechos no hay dichos que valgan la pena seguir... pero de qué dichos o hechos estan diciendo 🤣!!!  
 
 > 💬 *"¡Si este tipo lo pudo hacer, pues por qué yo no!!!"* 💪🌟
 
